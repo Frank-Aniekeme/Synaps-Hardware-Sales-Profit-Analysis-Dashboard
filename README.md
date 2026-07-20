@@ -65,6 +65,7 @@ Profit Dashboard
 📦 Profit by Product Category
 👨‍💼 Profit by Sales Team
 🌍 Profit by Region
+
 📊 Sales vs Profit Analysis
 
 
